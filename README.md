@@ -1,6 +1,6 @@
 # bitcoin-node
 
-#Frontend
+# Frontend
 npm i
 npm run serve
 
@@ -8,7 +8,7 @@ npm run serve
 npm i
 npm run server:dev
 
-#Technologies
+# Technologies
 - vue
 - nodeJS
 - SASS
