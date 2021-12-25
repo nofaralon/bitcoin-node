@@ -1,12 +1,12 @@
 # bitcoin-node
 
 # Frontend
-npm i
-npm run serve
+- npm i
+- npm run serve
 
 # Backend
-npm i
-npm run server:dev
+- npm i
+- npm run server:dev
 
 # Technologies
 - vue
